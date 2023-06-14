@@ -1,6 +1,5 @@
 # MAST30034 Project 1 README.md
 - Name: Lang (Ron) Chen
-- Student ID: 1181506
 
 **Research Goal:** My research goal is to find the PULocation with the highest demand given a DOLocation at a specific 
 time
